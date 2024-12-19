@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8d46224-4c3e-41b5-9777-691be67dc8cb" name="Changes" comment="17.55" />
+    <list default="true" id="d8d46224-4c3e-41b5-9777-691be67dc8cb" name="Changes" comment="17.55">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +26,8 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Людмила/pythonProject17.55"
+    "last_opened_file_path": "C:/Users/Людмила/pythonProject17.55",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,10 +54,29 @@
       <option name="project" value="LOCAL" />
       <updated>1734590345697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="17.55">
+      <option name="closed" value="true" />
+      <created>1734590449490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734590449490</updated>
+    </task>
+    <task id="LOCAL-00003" summary="17.55">
+      <option name="closed" value="true" />
+      <created>1734590475883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734590475883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app" />
+    </ignored-roots>
     <MESSAGE value="17.55" />
     <option name="LAST_COMMIT_MESSAGE" value="17.55" />
   </component>
